@@ -6,7 +6,7 @@
 
 ---
 
-### 🙋‍♀️ Hakkımda
+### Hakkımda
 
 Ben Elif Koşar, Selçuk Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Yapay zeka, veri bilimi, web ve mobil uygulama geliştirme alanlarında projeler geliştiriyor ve yeni şeyler öğrenmeyi seviyorum.
 
@@ -24,7 +24,7 @@ Ben Elif Koşar, Selçuk Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğ
 ### 📫 Bana Ulaşın
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/elifkosar)
-- 🌐 [Portfolyom:](https://elifkosar.netlify.app/)
+- 🌐 [Portfolyom](https://elifkosar.netlify.app/)
 - 🌐 [Blogum: merhabai.com](https://merhabai.com)
 - ✉️ elif.kosar.163@gmail.com
 
